@@ -1,2 +1,2 @@
-# ui-ux_with_Adobe-XD
-Projects_done_with_Adsobe_xd
+# ui/ux design_with_Adobe-XD
+Entire website designed with_Adobe_xd
